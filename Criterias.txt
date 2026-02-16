@@ -3,9 +3,9 @@ application number for NTU: T2583237F
 CASE STUDIES
 
 1. Throughput (with time) (200 secs, 1000 cars / hour )
-2 Throughput (with number of cars)
-3 Different road densities on different road
- - ran with time
+2 Throughput (with number of cars) (250 cars)
+3 Different road densities on different road 
+ - ran with time (1000 secs)
  - ran with number of cars
 4. How quickly emergency vehicle pass through
 5. Vehicle move at different speeds
