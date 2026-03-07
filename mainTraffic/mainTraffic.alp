@@ -1966,9 +1966,17 @@
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[initialSpeed]]></Name>
+							<Value Class="CodeUnitValue">
+								<Code><![CDATA[200]]></Code>
+								<Unit Class="SpeedUnits"><![CDATA[KPH]]></Unit>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[preferredSpeed]]></Name>
+							<Value Class="CodeUnitValue">
+								<Code><![CDATA[200]]></Code>
+								<Unit Class="SpeedUnits"><![CDATA[KPH]]></Unit>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[maxAcceleration]]></Name>
@@ -2219,9 +2227,17 @@
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[initialSpeed]]></Name>
+							<Value Class="CodeUnitValue">
+								<Code><![CDATA[200]]></Code>
+								<Unit Class="SpeedUnits"><![CDATA[KPH]]></Unit>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[preferredSpeed]]></Name>
+							<Value Class="CodeUnitValue">
+								<Code><![CDATA[200]]></Code>
+								<Unit Class="SpeedUnits"><![CDATA[KPH]]></Unit>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[maxAcceleration]]></Name>
@@ -4145,7 +4161,7 @@
 				<Text>
 					<Id>1771250257628</Id>
 					<Name><![CDATA[text5]]></Name>
-					<X>1220</X><Y>290</Y>
+					<X>1310</X><Y>290</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -4155,7 +4171,7 @@
 					<Z>0</Z>
 					<Rotation>0.0</Rotation>
 					<Color>-16777216</Color>
-					<Text><![CDATA[CASE STUDY: CARS MOVE AT DIFFERENT SPEEDS (INTERVAL BASED SWITCHING) (5)]]></Text>
+					<Text><![CDATA[CASE STUDY: UNEVEN GENERATION OF CARS (INTERVAL BASED SWITCHING) (4)]]></Text>
 					<Font>
 						<Name>SansSerif</Name>
 						<Size>10</Size>
